@@ -1,0 +1,31 @@
+
+STEPS TO DEPLOY AN NGINX SERVER ON EC2 INSTANCE 
+  sudo apt update     (For Linux) sudo yum update
+
+  sudo apt install nginx    (FOR Linux)  sudo yum install nginx
+
+  sudo systemctl status nginx
+
+STEPS TO DEPLOY PYTHON ON EC2 INSTANCE 
+   sudo apt update   (FOR Linux)  sudo yum update
+
+   python3 --version
+
+   sudo apt install python3  (FOR Linux)  sudo yum install python3
+
+   python3 --version
+
+
+STEPS TO DEPLOY AWS CLI ON EC2 INSTANCE
+   sudo apt-get update   (FOR Linux)  sudo yum update
+
+   sudo apt-get install awscli  (FOR Linux)  sudo yum install awscli
+
+   aws --version
+
+   aws configure
+
+
+   
+
+
